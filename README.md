@@ -2,5 +2,5 @@
 Hover Effects
 This is a small project showing different types of transition that can be created.
 6 Effect
-6 Iamges
+6 Images
 6 Transition
